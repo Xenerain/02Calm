@@ -1,3 +1,4 @@
 # 02Calm
-20tps
+IP: play.02calm.ru
+Port: 25565
 16G memory
